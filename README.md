@@ -2,7 +2,7 @@
 
 A clean, interactive flashcard app for AWS Cloud Practitioner exam preparation with challenging scenario-based questions.
 
-![Alt text]([URL-to-your-imagehttps://github.com/aslanemrecan/aws_cp_examprep_flashcards/blob/1a95814218402f5c4d20dc2a47184d754491a8f2/uuid%3DA1C883F9-8FB6-423A-8E47-4D01C4D8898E%26code%3D001%26library%3D1%26type%3D1%26mode%3D1%26loc%3Dtrue%26cap%3Dtrue.jpeg](https://github.com/aslanemrecan/aws_cp_examprep_flashcards/blob/6f000c1fcd3d9bf056517da70788cc82ac703819/ORNEK.jpeg))
+![My Image]([URL-to-your-imagehttps://github.com/aslanemrecan/aws_cp_examprep_flashcards/blob/1a95814218402f5c4d20dc2a47184d754491a8f2/uuid%3DA1C883F9-8FB6-423A-8E47-4D01C4D8898E%26code%3D001%26library%3D1%26type%3D1%26mode%3D1%26loc%3Dtrue%26cap%3Dtrue.jpeg](https://github.com/aslanemrecan/aws_cp_examprep_flashcards/blob/6f000c1fcd3d9bf056517da70788cc82ac703819/ORNEK.jpeg))
 
 *Interactive 3D flip cards with modern gradient design and comprehensive AWS exam questions*
 
