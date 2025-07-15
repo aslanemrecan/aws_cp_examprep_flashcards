@@ -1,6 +1,10 @@
 # AWS Cloud Practitioner Flashcards
 
-A clean, interactive flashcard app for AWS Cloud Practitioner exam preparation.
+A clean, interactive flashcard app for AWS Cloud Practitioner exam preparation with challenging scenario-based questions.
+
+![AWS Flashcards App Screenshot](screenshot.png)
+
+*Interactive 3D flip cards with modern gradient design and comprehensive AWS exam questions*
 
 ## Features
 
