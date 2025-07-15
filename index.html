@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWS Cloud Practitioner Flashcards</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <span class="aws-icon">☁️</span>
+                <h1>AWS Cloud Practitioner</h1>
+            </div>
+            <div class="progress-section">
+                <div class="stats">
+                    <span id="current-card">1</span> / <span id="total-cards">0</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+            </div>
+        </header>
+        
+        <div class="flashcard-container">
+            <div class="flashcard" id="flashcard">
+                <div class="card-inner" id="card-inner">
+                    <div class="card-front">
+                        <div class="card-label">Question</div>
+                        <div class="question" id="question">Loading flashcards...</div>
+                        <div class="flip-hint">Click to reveal answer</div>
+                    </div>
+                    <div class="card-back">
+                        <div class="card-label">Answer</div>
+                        <div class="answer" id="answer"></div>
+                        <div class="flip-hint">Click to show question</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <div class="main-controls">
+                <button id="prev-btn" class="btn nav-btn" title="Previous (←)">
+                    <span>←</span> Previous
+                </button>
+                <button id="flip-btn" class="btn primary" title="Flip card (Space)">
+                    Flip Card
+                </button>
+                <button id="next-btn" class="btn nav-btn" title="Next (→)">
+                    Next <span>→</span>
+                </button>
+            </div>
+            <div class="secondary-controls">
+                <button id="shuffle-btn" class="btn secondary" title="Shuffle deck">
+                    🔀 Shuffle
+                </button>
+                <button id="reset-btn" class="btn secondary" title="Reset to first card">
+                    🔄 Reset
+                </button>
+            </div>
+        </div>
+        
+        <div class="keyboard-hints">
+            <span>Space: Flip</span>
+            <span>← →: Navigate</span>
+            <span>S: Shuffle</span>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

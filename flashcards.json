@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is the AWS shared responsibility model?",
+        "answer": "AWS is responsible for security OF the cloud (infrastructure, hardware, software, networking), while customers are responsible for security IN the cloud (data, identity management, applications, operating systems, network traffic protection)."
+    },
+    {
+        "question": "What are the 6 pillars of the AWS Well-Architected Framework?",
+        "answer": "1. Operational Excellence, 2. Security, 3. Reliability, 4. Performance Efficiency, 5. Cost Optimization, 6. Sustainability"
+    },
+    {
+        "question": "What is Amazon EC2?",
+        "answer": "Elastic Compute Cloud - provides scalable virtual servers (instances) in the cloud with various instance types, operating systems, and configurations."
+    },
+    {
+        "question": "What is the difference between Amazon S3 storage classes?",
+        "answer": "Standard (frequent access), Standard-IA (infrequent access), One Zone-IA (single AZ), Glacier (archival), Glacier Deep Archive (long-term archival), Intelligent-Tiering (automatic optimization)."
+    },
+    {
+        "question": "What is Amazon VPC?",
+        "answer": "Virtual Private Cloud - allows you to create a logically isolated section of AWS cloud where you can launch resources in a virtual network that you define."
+    },
+    {
+        "question": "What is AWS IAM?",
+        "answer": "Identity and Access Management - service that helps you securely control access to AWS resources through users, groups, roles, and policies."
+    },
+    {
+        "question": "What are AWS Availability Zones?",
+        "answer": "Distinct locations within an AWS Region that are engineered to be isolated from failures in other AZs, providing high availability and fault tolerance."
+    },
+    {
+        "question": "What is Amazon RDS?",
+        "answer": "Relational Database Service - managed database service that supports multiple database engines like MySQL, PostgreSQL, Oracle, SQL Server, and Amazon Aurora."
+    },
+    {
+        "question": "What is AWS Lambda?",
+        "answer": "Serverless compute service that runs code in response to events without provisioning or managing servers. You pay only for compute time consumed."
+    },
+    {
+        "question": "What is Amazon CloudFront?",
+        "answer": "Content Delivery Network (CDN) service that delivers content to users with low latency by caching content at edge locations worldwide."
+    },
+    {
+        "question": "What is the difference between horizontal and vertical scaling?",
+        "answer": "Horizontal scaling (scale out) adds more instances, while vertical scaling (scale up) increases the size/capacity of existing instances."
+    },
+    {
+        "question": "What is AWS CloudFormation?",
+        "answer": "Infrastructure as Code service that allows you to model and provision AWS resources using templates written in JSON or YAML."
+    },
+    {
+        "question": "What are the AWS pricing models?",
+        "answer": "Pay-as-you-go, Reserved Instances, Spot Instances, Dedicated Hosts, and Savings Plans."
+    },
+    {
+        "question": "What is Amazon Route 53?",
+        "answer": "Scalable DNS web service that routes end users to internet applications and can perform health checks on resources."
+    },
+    {
+        "question": "What is AWS CloudWatch?",
+        "answer": "Monitoring service that collects and tracks metrics, logs, and events from AWS resources and applications."
+    }
+]
